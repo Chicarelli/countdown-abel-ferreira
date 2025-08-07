@@ -1,0 +1,25 @@
+{
+  "name": "countdown-abel-ferreira",
+  "version": "1.0.0",
+  "description": "Countdown to Abel Ferreira's contract end with Palmeiras",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server ."
+  },
+  "keywords": [
+    "countdown",
+    "abel-ferreira",
+    "palmeiras",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/countdown-abel-ferreira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/countdown-abel-ferreira.git"
+  }
+}
